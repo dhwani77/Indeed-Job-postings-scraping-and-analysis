@@ -1,4 +1,4 @@
-# Indeed-Job-scraping
+# Indeed-Job postings web scraping and and analysis 
 Scrapping job postings for analytics jobs posted in California within the past week.
 
 Job searches can be onerous. People spend much time on job hunting websites and easily get overwhelmed by tons of information. Through this project I aim to simplify this process by using web scraping to automate tailored job search and thus deliver the right fit for every hire. 
