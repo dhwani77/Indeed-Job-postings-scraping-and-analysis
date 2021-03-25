@@ -19,3 +19,7 @@ This would help job seekers target their search to company websites that have hi
 
 **Top 5 Best locations: San Francisco, Fremont, San Jose, Santa Clara, Palo Alto 
 This allows prospective employees to look for homes/rentals in the locations closest to areas that have a high presence of companies that hire.
+
+In the word2vec and data Sentiment analysis code: I added topic modeling on the scrapped job descriptions to arrive at most relevant key words that appear in the analytics job adverts. And then I built a Word2Vec model to generate word embeddings of those keywords to establish a more accurate and generalizable understanding. For eg: Searching for the word degree would give you results like masters, computer science, years which indicates that companies prefer you to have these qualifications with some years of experience for the analytics role.
+
+Conclusion: The topic modeling and Word2Vec model allows job seekers to accurately identify key skill sets needed and modify their resumes to include them or undertake courses to gain these hot skills in their domain. 
